@@ -24,21 +24,6 @@ checkers_game/
 
 ---
 
-## Setup & Run
-
-```bash
-# 1. Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the game
-python main.py
-```
-
----
 
 ## How to Play
 
